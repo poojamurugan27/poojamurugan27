@@ -2,7 +2,7 @@
 ## Hello👋, I'am Pooja
 
 Passionate full-stack developer, eager to acquire new skills and contribute to innovative web solutions.
-<img align="right" width="370" height="290" src="https://iconscout.com/lottie-animation/female-web-developer-4563721">
+<img align="right" width="370" height="290" src="https://iconscout.com/lottie-animation/female-web-developer-7362399">
 - 🔭 I'm currently working on MERN Stack                                              
 - 🌱 I’m currently learning DSA
 - 📫 How to reach me : poojamurugan27092003@gmail.com
