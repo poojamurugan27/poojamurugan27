@@ -2,7 +2,7 @@
 ## Hello👋, I'am Pooja
 
 Passionate full-stack developer, eager to acquire new skills and contribute to innovative web solutions.
-<img align="right" width="370" height="290" src="https://img.freepik.com/premium-vector/out-line-apron-mom-pc-screen_81698-384.jpg?size=626&ext=jpg&ga=GA1.1.1156273717.1676282757&semt=ais_user">
+<img align="right" width="300" height="250" src="https://img.freepik.com/premium-vector/out-line-apron-mom-pc-screen_81698-384.jpg?size=626&ext=jpg&ga=GA1.1.1156273717.1676282757&semt=ais_user">
 - 🔭 I'm currently working on MERN Stack                                              
 - 🌱 I’m currently learning DSA
 - 📫 How to reach me : poojamurugan27092003@gmail.com
